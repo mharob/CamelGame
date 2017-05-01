@@ -1,0 +1,471 @@
+Welcome to Camel!
+You have stolen a camel to make your way across the great Mobi desert.
+The natives want their camel back and are chasing you down! Survive your
+desert trek and outrun the natives.
+
+Choices A and E  do not count as movement thus will not advance time.
+Choices B-D count as movement commands and will advance time.
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? Miles traveled: 0
+Drinks in canteen: 2
+The natives are 20 miles behind you.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? You traveled 16 miles.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? Miles traveled: 16
+Drinks in canteen: 2
+The natives are 28 miles behind you.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? You traveled 11 miles.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? Miles traveled: 27
+Drinks in canteen: 2
+The natives are 31 miles behind you.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? You traveled 14 miles.
+Your camel is getting tired.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? Miles traveled: 41
+Drinks in canteen: 2
+The natives are 30 miles behind you.
+Your camel is getting tired.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? You stop and rest.
+Your camel is happy.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? Miles traveled: 41
+Drinks in canteen: 2
+The natives are 20 miles behind you.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? You traveled 15 miles.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? Miles traveled: 56
+Drinks in canteen: 2
+The natives are 25 miles behind you.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? You traveled 12 miles.
+You are thirsty.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? You sated your thirst.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? Miles traveled: 68
+Drinks in canteen: 1
+The natives are 28 miles behind you.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? You traveled 10 miles.
+You found an oasis!
+You drink and fill your canteen.
+Your thirst is sated.
+You rest your camel.
+Your camel is happy.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? Miles traveled: 78
+Drinks in canteen: 2
+The natives are 26 miles behind you.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? You traveled 16 miles.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? Miles traveled: 94
+Drinks in canteen: 2
+The natives are 33 miles behind you.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? You traveled 12 miles.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? Miles traveled: 106
+Drinks in canteen: 2
+The natives are 33 miles behind you.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? You traveled 17 miles.
+Your camel is getting tired.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? Miles traveled: 123
+Drinks in canteen: 2
+The natives are 36 miles behind you.
+Your camel is getting tired.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? You stop and rest.
+Your camel is happy.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? Miles traveled: 123
+Drinks in canteen: 2
+The natives are 22 miles behind you.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? You traveled 11 miles.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? Miles traveled: 134
+Drinks in canteen: 2
+The natives are 20 miles behind you.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? You traveled 16 miles.
+You are thirsty.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? You sated your thirst.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? Miles traveled: 150
+Drinks in canteen: 1
+The natives are 23 miles behind you.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? You traveled 10 miles.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? Miles traveled: 160
+Drinks in canteen: 1
+The natives are 25 miles behind you.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? You traveled 13 miles.
+Your camel is getting tired.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? Miles traveled: 173
+Drinks in canteen: 1
+The natives are 23 miles behind you.
+Your camel is getting tired.
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? You stop and rest.
+Your camel is happy.
+The natives are getting close!
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? Miles traveled: 173
+Drinks in canteen: 1
+The natives are 11 miles behind you.
+The natives are getting close!
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? You traveled 12 miles.
+The natives are getting close!
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? Miles traveled: 185
+Drinks in canteen: 1
+The natives are 12 miles behind you.
+The natives are getting close!
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? You traveled 11 miles.
+The natives are getting close!
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? Miles traveled: 196
+Drinks in canteen: 1
+The natives are 10 miles behind you.
+The natives are getting close!
+============================================================
+
+============================================================
+A. Drink from your canteen.
+B. Ahead moderate speed.
+C. Ahead full speed.
+D. Stop and rest.
+E. Status check.
+Q. Quit.
+Your choice? You traveled 10 miles.
+You are thirsty.
+Your camel is getting tired.
+The natives are getting close!
+You made it across the desert! You won!
+============================================================
+
